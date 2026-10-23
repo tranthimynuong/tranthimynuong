@@ -20,41 +20,59 @@
 
 ---
 
-### About Me
+### 👩‍💻 About Me
 
 Software Engineering student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, graduating in 2027. Specializing in Software Quality Assurance, test case design, and AI-assisted automation workflows. Passionate about transforming manual verification into robust, automated pipelines that safeguard product stability.
 
-#### What Drives Me
+#### 🎯 What Drives Me
 Focused on identifying software edge cases before users do. Whether designing boundary test matrices, verifying RESTful APIs, or prototyping user-centric interfaces in Figma, I believe rigorous quality practices build reliable software.
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-- 🔍 [**ai-search-job**](https://github.com/tranthimynuong/ai-search-job) — *AI-Assisted Job Aggregation Platform*
-  - Automated query parsing across complex role descriptions with structured JSON output.
-  - Eliminated manual filtering fatigue through semantic relevance matching.
-  - Reduced search turnaround time using asynchronous FastAPI endpoints.
-  - **Stack**: `Python` · `FastAPI` · `OpenAI API` · `PostgreSQL` · `Docker`
+> ### 🔍 [ai-search-job](https://github.com/tranthimynuong/ai-search-job)
+> **AI-Assisted Job Aggregation & Filtering Platform**
+> - Automated ingestion tool matching candidate profiles with unstructured job descriptions using semantic decomposition.
+> - **Impact**: Reduced query turnaround time using asynchronous endpoints; automated parsing with structured JSON schema.
+> - **Technologies:**  
+>   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+>   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+>   ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+>   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+>   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- 🎓 [**Topichub**](https://github.com/tranthimynuong/Topichub) — *Academic Discussion Forum & Resource Platform*
-  - Implemented Role-Based Access Control (RBAC) across student and admin tiers.
-  - Structured relational entity schemas with Spring Data JPA, preventing orphan records.
-  - Validated core RESTful endpoints using Postman test collections.
-  - **Stack**: `Java` · `Spring Boot` · `MySQL` · `REST API` · `Postman`
+<br/>
 
-- ⚡ [**quizmaster**](https://github.com/tranthimynuong/quizmaster) — *Real-Time Examination Engine & Analytics Dashboard*
-  - Ensured zero-lag client-side state transitions during high-frequency question switching.
-  - Designed comprehensive test scenarios covering network dropouts and session recovery.
-  - **Stack**: `React` · `TypeScript` · `Node.js` · `Tailwind CSS`
+> ### 🎓 [Topichub](https://github.com/tranthimynuong/Topichub)
+> **Academic Discussion Forum & Knowledge Repository**
+> - Enterprise-grade discussion portal supporting categorized topics, moderation lifecycles, and user access governance.
+> - **Impact**: Implemented Role-Based Access Control (RBAC); architected relational schemas with Spring Data JPA preventing orphan records.
+> - **Technologies:**  
+>   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+>   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+>   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+>   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<br/>
+
+> ### ⚡ [quizmaster](https://github.com/tranthimynuong/quizmaster)
+> **Real-Time Examination Engine & Analytics Dashboard**
+> - High-concurrency examination engine with automated timer synchronization, randomized question banks, and instant grading analytics.
+> - **Impact**: Handled state transitions without client-side lag; designed comprehensive test scenarios covering network dropouts.
+> - **Technologies:**  
+>   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+>   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+>   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+>   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<p><b>Quality Assurance & Automation</b></p>
+<p><b>Quality Assurance & Verification</b></p>
 <img src="https://skillicons.dev/icons?i=postman,selenium,jira,git,github,vscode" />
 
 <p><b>Software Engineering & Database</b></p>
@@ -67,7 +85,7 @@ Focused on identifying software edge cases before users do. Whether designing bo
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tranthimynuong&show_icons=true" height="165" />
@@ -80,14 +98,41 @@ Focused on identifying software edge cases before users do. Whether designing bo
 
 ---
 
-### Current Focus & Interests
+### 💡 Current Focus & Competencies
 
-```json
-{
-  "currentStatus": "Undergraduate Software Engineering Student @ HCMUTE",
-  "coreFocus": ["Quality Assurance", "Test Case Architecture", "Defect Lifecycle"],
-  "exploring": ["Automated API Testing with Postman", "Prompt Engineering for QA"],
-  "sideSkills": ["Figma Wireframing", "UI/UX Usability Patterns"],
-  "certifications": ["VSTEP B2 (32/40)", "TOEIC 590"],
-  "location": "Ho Chi Minh City, Vietnam"
-}
+- 🎯 **Primary Domain**: Software Quality Assurance, Test Architecture, Defect Lifecycle Management
+- 🚀 **Currently Exploring**: Automated API Test Suites with Postman, Prompt Engineering for QA
+- 🎨 **Creative Practice**: Figma High-Fidelity Wireframes, Component Design Systems
+- 📜 **Credentials**: VSTEP B2 (32/40), TOEIC 590
+- 📍 **Location**: Ho Chi Minh City, Vietnam
+
+---
+
+### 🌟 Beyond Code
+
+- 🎨 **UI/UX Design**: Wireframing intuitive user journeys and scalable design systems in Figma
+- 📸 **Visual Arts**: Exploring aesthetic composition, color harmony, and visual balance
+- 📚 **Lifelong Learning**: Reading STLC methodologies and exploring AI-assisted testing tools
+- 💡 **Side Projects**: Prototyping practical web tools and lightweight automation scripts
+
+---
+
+### 📬 Let's Connect
+
+<p align="center">
+  I am actively seeking internship and junior opportunities in <b>Software QA / Testing</b> and <b>Software Engineering</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tranthimynuong2003/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.behance.net/tranthimynuong" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>&nbsp;
+  <a href="mailto:tranthimynuong2003py@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/tranthimynuong" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<!-- ============ Living Garden: Cat Walking Animation ============ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yuki4266/yuki4266/master/garden-footer.svg" width="100%" alt="living garden with animated cat" />
+</div>
