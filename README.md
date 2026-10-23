@@ -1,12 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9698E7,EEC1DD&height=220&section=header&text=Hi%20there,%20I'm%20My%20Nuong%20✨&fontSize=36&fontAlignY=38&desc=Software%20Engineering%20Student%20@%20HCMUTE&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9698E7,50:D1D0EF,100:EEC1DD&height=220&section=header&text=Hi%20there,%20I'm%20My%20Nuong%20✨&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20@%20HCMUTE&descColor=ffffff&descAlignY=62&descSize=18" width="100%"/>
 </div>
 
 ### 🌸 About Me
 - 🎓 **Học vấn:** Sinh viên Kỹ thuật Phần mềm tại **ĐH Sư Phạm Kỹ Thuật TP.HCM (HCMUTE)** (2023 - 2027)
 - 🎯 **Định hướng:** Software QA / Testing, AI-Assisted Engineering & UI/UX Design
-- 💡 **Thế mạnh:** Tư duy kiểm thử, kết hợp Generative AI vào quy trình làm việc, thiết kế giao diện người dùng
+- 💡 **Thế mạnh:** Tư duy kiểm thử, ứng dụng Generative AI / Prompt Engineering và thiết kế giao diện
 - 💬 **Ngoại ngữ:** Tiếng Anh (VSTEP B2 – 32/40, TOEIC 590)
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/tranthimynuong/ai-search-job">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranthimynuong&repo=ai-search-job&title_color=9698E7&text_color=666666&icon_color=EEC1DD&bg_color=FCF8FB&border_color=D1D0EF" height="120" />
+  </a>
+  <a href="https://github.com/tranthimynuong/Topichub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranthimynuong&repo=Topichub&title_color=9698E7&text_color=666666&icon_color=EEC1DD&bg_color=FCF8FB&border_color=D1D0EF" height="120" />
+  </a>
+  <a href="https://github.com/tranthimynuong/quizmaster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tranthimynuong&repo=quizmaster&title_color=9698E7&text_color=666666&icon_color=EEC1DD&bg_color=FCF8FB&border_color=D1D0EF" height="120" />
+  </a>
+</div>
 
 ---
 
@@ -74,5 +90,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9698E7,EEC1DD&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9698E7,50:D1D0EF,100:EEC1DD&height=90&section=footer" width="100%"/>
 </div>
