@@ -44,10 +44,10 @@ Focused on identifying software edge cases before users do. Whether designing bo
 
 <br/>
 
-> ### 🎓 [Topichub](https://github.com/tranthimynuong/Topichub)
-> **Academic Discussion Forum & Knowledge Repository**
-> - Enterprise-grade discussion portal supporting categorized topics, moderation lifecycles, and user access governance.
-> - **Impact**: Implemented Role-Based Access Control (RBAC); architected relational schemas with Spring Data JPA preventing orphan records.
+> ### 🎓 [TopicHub (Java-project)](https://github.com/tranthimynuong/Java-project)
+> **Academic Forum & Knowledge Platform (Team of 3)**
+> - Developed in collaboration with 2 teammates, featuring topic categorization, role-based permissions, and moderation workflows.
+> - **Impact**: Implemented Role-Based Access Control (RBAC); architected relational schemas with Spring Data JPA preventing orphan records; validated core endpoints using Postman.
 > - **Technologies:**  
 >   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 >   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -134,5 +134,5 @@ Focused on identifying software edge cases before users do. Whether designing bo
 
 <!-- ============ Living Garden: Cat Walking Animation ============ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yuki4266/yuki4266/master/garden-footer.svg" width="100%" alt="living garden with animated cat" />
+  <img src="garden-footer.svg" width="100%" alt="living garden with animated cat" />
 </div>
