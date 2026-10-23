@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8AB08A,50:A8C9A8,100:C5E0C5&height=180&text=My%20Nuong&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20%40%20HCMUTE&descColor=ffffff&descAlignY=68&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:9698E7,100:EEC1DD&height=180&text=My%20Nuong&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20%40%20HCMUTE&descColor=ffffff&descAlignY=68&descSize=18" width="100%"/>
 </div>
 
 ### About me
@@ -39,12 +39,12 @@ Software Engineering undergraduate at Ho Chi Minh City University of Technology 
 ### GitHub overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranthimynuong&show_icons=true&title_color=8AB08A&text_color=4A664A&icon_color=8AB08A&bg_color=E8F4E8&border_color=C5E0C5&hide_border=false" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthimynuong&layout=compact&title_color=8AB08A&text_color=4A664A&bg_color=E8F4E8&border_color=C5E0C5&hide_border=false" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranthimynuong&show_icons=true&title_color=9698E7&text_color=555555&icon_color=EEC1DD&bg_color=FCF8FB&border_color=D1D0EF&hide_border=false" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthimynuong&layout=compact&title_color=9698E7&text_color=555555&bg_color=FCF8FB&border_color=D1D0EF&hide_border=false" height="155" />
 </div>
 
 <div align="center" style="margin-top: 8px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranthimynuong&theme=custom&background=E8F4E8&border=C5E0C5&stroke=8AB08A&ring=A8C9A8&fire=8AB08A&currStreakNum=8AB08A&sideNums=8AB08A&currStreakLabel=4A664A&sideLabels=4A664A&dates=667766" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranthimynuong&theme=custom&background=FCF8FB&border=D1D0EF&stroke=9698E7&ring=EEC1DD&fire=9698E7&currStreakNum=9698E7&sideNums=9698E7&currStreakLabel=9698E7&sideLabels=666666&dates=888888" />
 </div>
 
 ---
@@ -53,14 +53,14 @@ Software Engineering undergraduate at Ho Chi Minh City University of Technology 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tranthimynuong2003/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8AB08A?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-9698E7?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.behance.net/tranthimynuong" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-A8C9A8?style=flat-square&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-EEC1DD?style=flat-square&logo=behance&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:tranthimynuong2003py@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8AB08A?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-9698E7?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
