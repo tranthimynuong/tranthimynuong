@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 200" width="440" height="200">
+  <defs>
+    <filter id="cardShadow2" x="-2%" y="-2%" width="104%" height="106%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <style>
+    .card-bg { fill: #141321; stroke: #2b283d; stroke-width: 1.5; rx: 10px; }
+    .header-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 17px; font-weight: 700; fill: #fe428e; }
+    .lang-name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 600; fill: #a9fef7; }
+    .lang-pct { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #f8d849; }
+  </style>
+
+  <rect width="438" height="198" x="1" y="1" class="card-bg" filter="url(#cardShadow2)" />
+
+  <!-- Header -->
+  <g transform="translate(25, 32)">
+    <circle cx="6" cy="-4" r="5" fill="#fe428e" />
+    <text x="20" y="0" class="header-text">Most Used Languages</text>
+  </g>
+
+  <!-- Progress Bar -->
+  <g transform="translate(25, 52)">
+    <!-- Multi-segmented Bar -->
+    <rect x="0" y="0" width="135" height="11" rx="4" fill="#3178C6" />
+    <rect x="138" y="0" width="115" height="11" rx="4" fill="#3572A5" />
+    <rect x="256" y="0" width="70" height="11" rx="4" fill="#b07219" />
+    <rect x="329" y="0" width="60" height="11" rx="4" fill="#f1e05a" />
+  </g>
+
+  <!-- Language List Grid (2 columns) -->
+  <g transform="translate(25, 95)">
+    <!-- Col 1 -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="-4" r="5" fill="#3178C6" />
+      <text x="20" y="0" class="lang-name">TypeScript</text>
+      <text x="120" y="0" class="lang-pct">35.4%</text>
+    </g>
+    <g transform="translate(0, 32)">
+      <circle cx="6" cy="-4" r="5" fill="#3572A5" />
+      <text x="20" y="0" class="lang-name">Python</text>
+      <text x="120" y="0" class="lang-pct">29.8%</text>
+    </g>
+    <g transform="translate(0, 64)">
+      <circle cx="6" cy="-4" r="5" fill="#b07219" />
+      <text x="20" y="0" class="lang-name">Java / Spring</text>
+      <text x="120" y="0" class="lang-pct">18.2%</text>
+    </g>
+
+    <!-- Col 2 -->
+    <g transform="translate(210, 0)">
+      <circle cx="6" cy="-4" r="5" fill="#f1e05a" />
+      <text x="20" y="0" class="lang-name">JavaScript</text>
+      <text x="120" y="0" class="lang-pct">11.6%</text>
+    </g>
+    <g transform="translate(210, 32)">
+      <circle cx="6" cy="-4" r="5" fill="#e34c26" />
+      <text x="20" y="0" class="lang-name">HTML / CSS</text>
+      <text x="120" y="0" class="lang-pct">5.0%</text>
+    </g>
+  </g>
+</svg>

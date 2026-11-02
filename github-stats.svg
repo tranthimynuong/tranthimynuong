@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 200" width="440" height="200">
+  <defs>
+    <linearGradient id="statsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fe428e" />
+      <stop offset="100%" stop-color="#f8d849" />
+    </linearGradient>
+    <linearGradient id="rankGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#007ACC" />
+      <stop offset="100%" stop-color="#16A085" />
+    </linearGradient>
+    <filter id="cardShadow" x="-2%" y="-2%" width="104%" height="106%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <style>
+    .card-bg { fill: #141321; stroke: #2b283d; stroke-width: 1.5; rx: 10px; }
+    .header-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 17px; font-weight: 700; fill: #fe428e; }
+    .stat-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13.5px; font-weight: 500; fill: #a9fef7; }
+    .stat-value { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 14px; font-weight: 700; fill: #f8d849; }
+    .rank-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 26px; font-weight: 900; fill: #a9fef7; }
+    .rank-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 10px; font-weight: 600; fill: #fe428e; text-anchor: middle; }
+  </style>
+
+  <rect width="438" height="198" x="1" y="1" class="card-bg" filter="url(#cardShadow)" />
+
+  <!-- Header -->
+  <g transform="translate(25, 32)">
+    <circle cx="6" cy="-4" r="5" fill="#fe428e" />
+    <text x="20" y="0" class="header-text">My Nuong's GitHub Stats</text>
+  </g>
+
+  <!-- Stat Items -->
+  <g transform="translate(25, 68)">
+    <!-- Stars -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" class="stat-label">★ Total Earned Stars:</text>
+      <text x="180" y="0" class="stat-value">1</text>
+    </g>
+    <!-- Total Commits -->
+    <g transform="translate(0, 28)">
+      <text x="0" y="0" class="stat-label">⚡ Annual Contributions:</text>
+      <text x="180" y="0" class="stat-value">124+</text>
+    </g>
+    <!-- Repos -->
+    <g transform="translate(0, 56)">
+      <text x="0" y="0" class="stat-label">📂 Public Repositories:</text>
+      <text x="180" y="0" class="stat-value">8</text>
+    </g>
+    <!-- Followers -->
+    <g transform="translate(0, 84)">
+      <text x="0" y="0" class="stat-label">👥 Followers &amp; Network:</text>
+      <text x="180" y="0" class="stat-value">1</text>
+    </g>
+  </g>
+
+  <!-- Rank Badge -->
+  <g transform="translate(355, 115)">
+    <circle cx="0" cy="0" r="38" fill="none" stroke="url(#rankGrad)" stroke-width="4.5" stroke-dasharray="210" stroke-dashoffset="30">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="0" cy="0" r="32" fill="#1b192e" />
+    <text x="0" y="8" text-anchor="middle" class="rank-text">A+</text>
+    <text x="0" y="24" class="rank-sub">QA RANK</text>
+  </g>
+</svg>

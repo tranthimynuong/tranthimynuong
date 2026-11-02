@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Hi%2C%20I'm%20My%20Nuong%20✨&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20QA%20%26%20Test%20Automation%20Specialist&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="header.svg" width="100%" alt="Header Banner" />
+
+  <br/><br/>
 
   <a href="https://github.com/tranthimynuong">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=007ACC&center=true&vCenter=true&width=700&height=42&lines=Software+Engineering+Student+%40+HCMUTE+(2023+-+2027);QA+%26+Automated+Testing+Specialist+(Playwright%2C+Postman%2C+Selenium);Full-Stack+Engineer+(Spring+Boot%2C+React%2C+TypeScript%2C+Python);Building+Reliable+Software+with+Zero-Defect+Mindset" alt="Typing SVG" />
@@ -165,13 +167,9 @@ I am a Software Engineering student at **Ho Chi Minh City University of Technolo
 ### 📊 GitHub Metrics & Engineering Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranthimynuong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthimynuong&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 12px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranthimynuong&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="github-stats.svg" width="48%" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="github-top-langs.svg" width="48%" alt="Top Languages" />
 </div>
 
 ---
