@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header.svg" width="100%" alt="Tran Thi My Nuong — software engineering portfolio" />
+  <img src="header.svg?v=2773a79" width="100%" alt="Tran Thi My Nuong — software engineering portfolio" />
 
   <br />
 
